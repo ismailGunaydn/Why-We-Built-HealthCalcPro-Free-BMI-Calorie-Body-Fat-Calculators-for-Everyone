@@ -65,13 +65,13 @@
 ## Brand & Contact
 - **Organization:** HealthCalcPro (Global HQ: USA)  
 - **Email:** hello@healthcalcpro.com  
-- **SameAs (profiles):**  
-  - X/Twitter — TO_ADD_TWITTER  
+- **SameAs (profiles):**   
   - YouTube — TO_ADD_YOUTUBE  
   - Product Hunt — TO_ADD_PRODUCTHUNT  
-  - Medium — TO_ADD_MEDIUM  
+  - Medium — https://medium.com/@ismailgnydn28/why-we-built-healthcalcpro-free-bmi-calorie-body-fat-calculators-for-everyone-042292c56031 
   - GitHub Org — https://github.com/healthcalcpro  
-
+   -wikidata : https://www.wikidata.org/wiki/Q135988866
+  -dev : https://dev.to/olivia_342fsfsdgrere/healthcalcpro-free-bmi-calorie-body-fat-calculators-for-developers-5846
 ---
 
 ## Feedback
