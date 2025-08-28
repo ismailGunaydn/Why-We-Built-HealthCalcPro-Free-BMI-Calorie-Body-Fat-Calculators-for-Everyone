@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="HealthCalcPro" src="https://www.healthcalcpro.com/path-to-logo.png" width="120">
+  <img alt="HealthCalcPro" src="https://www.healthcalcpro.com/" width="120">
 </p>
 
 <h1 align="center">HealthCalcPro — Free BMI, Calorie & Body Fat Calculator</h1>
