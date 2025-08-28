@@ -66,8 +66,8 @@
 - **Organization:** HealthCalcPro (Global HQ: USA)  
 - **Email:** hello@healthcalcpro.com  
 - **SameAs (profiles):**   
-  - YouTube — TO_ADD_YOUTUBE  
-  - Product Hunt — TO_ADD_PRODUCTHUNT  
+  - YouTube — https://youtu.be/Cv7r0JyGBek , https://youtu.be/Ed6JyIVjDbM , https://youtu.be/FQiMdy3ARzM
+  - Product Hunt :  https://www.producthunt.com/products/free-bmi-calculator?launch=free-bmi-calculator 
   - Medium — https://medium.com/@ismailgnydn28/why-we-built-healthcalcpro-free-bmi-calorie-body-fat-calculators-for-everyone-042292c56031 
   - GitHub Org — https://github.com/healthcalcpro  
    -wikidata : https://www.wikidata.org/wiki/Q135988866
