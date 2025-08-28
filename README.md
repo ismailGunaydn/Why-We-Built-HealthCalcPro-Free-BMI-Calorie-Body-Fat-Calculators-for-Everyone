@@ -55,7 +55,7 @@
 
 ## Entity Resources (Google)
 - **Google Sites — Resource Hub:** [Open](https://sites.google.com/view/healthcalcproofficialresourceh/ana-sayfa?authuser=1)  
-- **Google Docs — Entity Overview:** TO_ADD_DOCS_PUBLISH_LINK  
+- **Google Docs — Entity Overview:**[ TO_ADD_DOCS_PUBLISH_LINK](https://docs.google.com/document/d/1XKYcKYC17pKeSeUUNznlMJrafaFRzOfvaP4XZ6gcnkE/edit?usp=sharing)   
 - **Google Sheets — Entity Map:** [Open](https://docs.google.com/spreadsheets/d/1qtB359ctX356zTLafwyeHWa6sjQ2_gnYo3Go1T6kTQE/edit?usp=sharing)  
 - **Google Slides — Brand Deck:** [Open](https://docs.google.com/presentation/d/1u3QV1C_R-IUqu9TAYTqfAwsF2XWqZiaw-v_Anq3OLWk/edit?usp=sharing)  
 - **Google My Maps — Global HQ & Coverage:** [Open](https://www.google.com/maps/d/edit?mid=1Lni3R5ZMLUHvLV_pBlokoi6mfVzArtE&usp=sharing)  
@@ -78,6 +78,23 @@
 Spotted an issue or have a feature idea? Open an issue here in this repo.
 
 ---
+https://docs.google.com/spreadsheets/d/1qtB359ctX356zTLafwyeHWa6sjQ2_gnYo3Go1T6kTQE/edit?usp=sharing 
+https://docs.google.com/spreadsheets/d/1Q8xAegdaTfkQy8viAJBrg_j737ItBc69M_Z_c24SoJA/edit?usp=sharing 
+https://docs.google.com/spreadsheets/d/14QdfRXKZZRnceARSSxULIO4FN2QdV2G7-eMjYkuBbIU/edit?usp=sharing 
+
+
+
+- [Google Slides — Brand Deck] 
+https://docs.google.com/presentation/d/1u3QV1C_R-IUqu9TAYTqfAwsF2XWqZiaw-v_Anq3OLWk/edit?usp=sharing 
+
+- [Google My Maps — HQ & Coverage]
+
+https://www.google.com/maps/d/edit?mid=1Lni3R5ZMLUHvLV_pBlokoi6mfVzArtE&usp=sharing 
+
+- [Google Sites — Resource Hub] https://sites.google.com/view/healthcalcproofficialresourceh/ana-sayfa?authuser=1 
+---
+https://github.com/ismailGunaydn/Why-We-Built-HealthCalcPro-Free-BMI-Calorie-Body-Fat-Calculators-for-Everyone 
+
 
 © HealthCalcPro
 
